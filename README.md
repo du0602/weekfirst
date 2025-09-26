@@ -1,2 +1,2 @@
 # weekfirst
-论文
+pytorch脚本和latex的pdf文档
